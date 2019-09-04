@@ -1,3 +1,5 @@
 .ipynb_checkpoints
 /Data/Cleaned
 /Data/Random Data Stores
+/*.joblib
+/Visualization.json
